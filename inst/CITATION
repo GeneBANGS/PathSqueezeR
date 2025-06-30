@@ -3,14 +3,14 @@ citHeader("If you use this package, please cite:")
 bibentry(
   bibtype = "Article",
   entry    = "Article",
-  title    = "articleTitle",
-  author   = "author1, author2, author3",
-  journal  = "journalName",
-  year     = "publicationYear",
+  title    = "PathSqueezeR: Hierarchical Simplification of Reactome Enrichment Results",
+  author   = "Massidda M, Rallo V and Angius A",
+  journal  = "Oxford Bioinformatics",
+  year     = "2026",
   volume   = "volume",
   number   = "number",
   pages    = "pages",
   url      = "linkToPublication",
-  textVersion = paste("author1, author2, author3 (publicationYear) articleTitle, *journalName*; volumeNumber, [linkToPublication](linkToPublication)"
+  textVersion = paste("Massidda M, Rallo V, Angius A (2026) PathSqueezeR: Hierarchical Simplification of Reactome Enrichment Results, *Oxford Bioinformatics*; volumeNumber, [linkToPublication](linkToPublication)"
   )
 )
